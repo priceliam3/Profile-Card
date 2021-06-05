@@ -1,0 +1,115 @@
+.card{
+  display: grid;
+  border: none;
+  width: 350px;
+  height: 400px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 20px;
+  position: fixed;
+  transform: ;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%,-50%);
+  background-color: greenyellow;
+}
+
+.like{
+  background-color: none;
+  width: 60px;
+  padding: 7px 7px 7px 7px;
+  border-radius: px;
+  border: none;
+  position: fixed;
+  left: 34%;
+  top: 79.5%;
+}
+
+.like:hover {
+  cursor: pointer;
+}
+
+.btn{
+  background-color: transparent;
+  border: none;
+  border-radius: 20px;
+}
+
+.likecount{
+  position: fixed;
+  left: 54%;
+  top: 79%;
+  font-size: 23px;
+  font-weight: bolder;
+  color: blueviolet;
+  text-align: center;
+}
+
+body{
+  background-color: rgb(161, 89, 230);
+}
+
+.btname {
+  padding: 12px 17px 12px 17px;
+  position: fixed;
+  left: 28%;
+  top: 53%;
+  border-radius: 19px;
+  border: none;
+  background-color: blueviolet;
+  color: greenyellow;
+}
+
+.btnskills{
+  padding: 12px 17px 12px 17px;
+  position: fixed;
+  left: 52%;
+  top: 53%;
+  border-radius: 19px;
+  border: none;
+  background-color: blueviolet;
+  color: greenyellow;
+}
+
+.cap{
+  font-weight: bolder;
+  font-size: 20px;
+  position: fixed;
+  left: 26%;
+  top: 33%;
+  width: 165px;
+  text-align: center;
+  color: blueviolet;
+}
+
+.pic{
+  width: 90px;
+  height: 90px;
+  border-radius: 1000px;
+  position: fixed;
+  left: 38%;
+  top: 8%;
+}
+
+.bg{
+  width: 350px;
+  height: 140px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  position: fixed;
+}
+
+.container{
+  display: flex;
+  background-color: gold;
+  width: 350px;
+  height: 380px;
+  border-radius: 20px;
+}
+
+.ln{
+  width: 40px;
+  position: fixed;
+  top: 69%;
+  left: 43%;
+  border-radius: 19px;
+}
